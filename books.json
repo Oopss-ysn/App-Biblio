@@ -1,0 +1,55 @@
+{
+"livros":[
+ {
+ "isbm":"976",
+ "description":"This fourth edition of Robert Sedgewick and Kevin Wayne’s   Algorithms   is the leading textbook on algorithms today and is wisbmely used in colleges and universities worldwisbme. This book surveys the most important computer algorithms currently in use and provisbmes a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use. ",
+ "name":"Algorithms (4th Edition)",
+ "author":"Robert Sedgewick",
+ "year":"2011",
+ "publisher":"Addison-Wesley Professional"
+ },
+ {
+ "isbm":"687",
+ "description":"I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candisbmate and as an interviewer. ",
+ "name":"Cracking the Coding Interview ",
+ "author":"Gayle Laakmann McDowell ",
+ "year":"2015",
+ "publisher":"CareerCup"
+ },
+ {
+ "isbm":"368",  
+ "description":"What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of the new and familiar is the most fulfilling? These may seem like uniquely human quandaries, but they are not. Computers, like us, confront limited space and time, so computer scientists have been grappling with similar problems for decades. And the solutions they’ve found have much to teach us. ",
+ "name":"Algorithms to Live By: The Computer Science of Human Decisions ",
+ "author":"Brian Christian ", 
+ "year":"2017",
+ "publisher":"Picador; "
+ },{
+ "isbm":"1072", 
+ "description":"Discrete Mathematics and Its Applications is intended for one or two term introductory Discrete Mathematics courses taken by students from a wisbme variety of majors, including Computer Science, Mathematics, and Engineering. This renowned best-selling text, which has been used at over 500 institutions around the world, gives a focused introduction to the primary themes in a Discrete Mathematics course and demonstrates the relevance and practicality of Discrete Mathematics to a wisbme variety of real-world ",
+ "name":"Discrete Mathematics and Its Applications Seventh Edition ",
+ "author":"Ken Rosen ", 
+ "year":"2011",
+ "publisher":"McGraw-Hill Education "
+ },{
+ "isbm":"346", 
+ "description":"This gentle introduction to discrete mathematics is written for first and second year math majors, especially those who intend to teach. The text began as a set of lecture notes for the discrete mathematics course at the University of Northern Colorado. This course serves both as an introduction to topics in discrete math and as the introduction to proof course for math majors. The course is usually taught with a large amount of student inquiry, and this text is written to help facilitate this. ",
+ "name":"Discrete Mathematics: An Open Introduction ",
+ "author":"Oscar Levin ", 
+ "year":"2016",
+ "publisher":"CreateSpace Independent Publishing Platform "
+ },{
+ "isbm":"256", 
+ "description":"This concise text offers an introduction to discrete mathematics for undergraduate students in computer science and mathematics. Mathematics educators consisbmer it vital that their students be exposed to a course in discrete methods that introduces them to combinatorial mathematics and to algebraic ",
+ "name":"Introductory Discrete Mathematics ",
+ "author":"V. K. Balakrishnan Page ", 
+ "year":"2010" ,
+ "publisher":"Dover Publications "
+ },{
+ "isbm":"272", 
+ "description":"The authors present the complete guisbme to ANSI standard C language programming. Written by the developers of C, this new version helps readers keep up with the finalized ANSI standard for C while showing how to take advantage of C's rich set of operators, economy of expression, improved control flow, and data structures. The 2/E has been completely rewritten with additional examples and problem sets to clarify the implementation of difficult language constructs ",
+ "name":"C Programming Language, 2nd Edition ",
+ "author":"C Programming Language, 2nd Edition ", 
+ "year":"1988",
+ "publisher":"Prentice Hall "
+}
+]}
